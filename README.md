@@ -1,8 +1,8 @@
-# Dual Contrastive Network for Sequential Recommendation with User and Item-Centric Perspectives
+# Mutual Harmony: Sequential Recommendation with Dual Contrastive Network
 
 This is our TensorFlow implementation for the paper:
 
-Dual Contrastive Network for Sequential Recommendation with User and Item-Centric Perspectives
+Mutual Harmony: Sequential Recommendation with Dual Contrastive Network
 
 The code is tested under a Linux desktop with TensorFlow 1.12.3 and Python 3.6.8.
 
